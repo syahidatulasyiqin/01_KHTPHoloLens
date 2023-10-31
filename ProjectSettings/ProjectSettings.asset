@@ -614,14 +614,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Template3D
+  metroPackageName: KHTPHoloLens
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Template_HoloLens
+  metroCertificateSubject: NetQlix
+  metroCertificateIssuer: NetQlix
+  metroCertificateNotAfter: 004d843c5b28db01
+  metroApplicationDescription: KHTPHoloLens
   wsaImages: {}
   metroTileShortName: 00_HoloLens-Template
   metroTileShowName: 0
