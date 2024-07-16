@@ -6,95 +6,80 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/00_Landing V1.unity
-    guid: 52a31789098c37c47ac66dc9bfcd81ee
+    path: Assets/Scenes/00_Landing V2.unity
+    guid: 109611e4cff37c640b668da1cf4c356e
   - enabled: 1
-    path: Assets/Scenes/01_MainMenu V1.unity
-    guid: dec333f1f11e042409689dec003826e1
+    path: Assets/Scenes/01_MainMenu V2.unity
+    guid: 189a7401475e91a4192b130a1b863428
   - enabled: 1
-    path: Assets/Scenes/02_ResidentialZone V1.unity
-    guid: a2b4ce9ba22cf3645b248e8dd57d6c61
-  - enabled: 1
-    path: Assets/Scenes/02_R&DZone V1.unity
-    guid: 30126e477a8582e40b43fe6fd4a78576
-  - enabled: 1
-    path: Assets/Scenes/02_UrbanMain V1.unity
-    guid: 002c66c55d3aac34f82b1e34a8fc1a2c
-  - enabled: 1
-    path: Assets/Scenes/02_InstitutionalZone V1.unity
-    guid: e800970d75bb8194681c92a900237563
-  - enabled: 1
-    path: Assets/Scenes/02_IndustrialZone V1.unity
-    guid: 4263edfe7e60d8146813bbf7b5eab2b3
-  - enabled: 1
-    path: Assets/Scenes/02_AmenityZone V1.unity
-    guid: 2fea0a75f12abad4f8c8b4c4e4ec085c
-  - enabled: 1
-    path: Assets/Scenes/04_UrbanZone360(KHTPBusinessCentre) V1.unity
-    guid: 2cba910e26f296b44b9179b06f5ec50f
-  - enabled: 1
-    path: Assets/Scenes/04_InstitutionalZone360(BalaiBomba) V1.unity
-    guid: f9d73ea2706c487489011dd7bb277ff7
-  - enabled: 1
-    path: Assets/Scenes/04_InstitutionalZone360(BalaiPolis) V1.unity
-    guid: af3725c62c3bd054680a1241df9b3c6b
-  - enabled: 1
-    path: Assets/Scenes/04_InstitutionalZone360(Hospital) V1.unity
-    guid: 9d7ea7b6d7b9200439e3fd15f58cadd4
-  - enabled: 1
-    path: Assets/Scenes/04_ResidentialZone360(KulimPerdana) V1.unity
+    path: Assets/Scenes/02_Residential Kulim Perdana.unity
     guid: a304a76005196c54786552b975ed7cc7
   - enabled: 1
-    path: Assets/Scenes/04_ResidentialZone360(KulimTechnoCity) V1.unity
+    path: Assets/Scenes/02_Residential Kulim Techno.unity
     guid: f8e81567af210a74fabbc2ed4623f37e
   - enabled: 1
-    path: Assets/Scenes/04_AmenityZone360(1)(SportComplex) V1.unity
-    guid: 1c0139ab9119fdb48b6be002dac0d56b
+    path: Assets/Scenes/02_Residential Kulim Utama.unity
+    guid: fe527336c2bbb854999080234d511b68
   - enabled: 1
-    path: Assets/Scenes/04_AmenityZone360(2)(SportComplex) V1.unity
-    guid: 2818d577df9acc24b92edf35c479b114
-  - enabled: 1
-    path: Assets/Scenes/04_AmenityZone360(3)(SportComplex) V1.unity
-    guid: 87943e5aff9fba24bb564f4b17ebd39d
-  - enabled: 1
-    path: Assets/Scenes/04_AmenityZone360(1)(Golf) V1.unity
-    guid: 5d93a8f9b086c564090682903c386795
-  - enabled: 1
-    path: Assets/Scenes/04_AmenityZone360(2)(Golf) V1.unity
-    guid: 98a9b6a3271e28a478f704e659fb395e
-  - enabled: 1
-    path: Assets/Scenes/04_AmenityZone360(3)(Golf) V1.unity
-    guid: 2dbf9ab42a7da9848a6f56e27d084f5e
-  - enabled: 1
-    path: Assets/Scenes/04_AmenityZone360(4)(Golf) V1.unity
-    guid: ad4e7fde744ea3f418d12f811a48cf99
-  - enabled: 1
-    path: Assets/Scenes/04_R&DZone360(Politeknik) V1.unity
+    path: Assets/Scenes/03_R&D Politeknik.unity
     guid: 3bd758da49f51c4479307f6a724374bc
   - enabled: 1
-    path: Assets/Scenes/04_R&DZone360(UniKL) V1.unity
+    path: Assets/Scenes/03_R&D UniKL.unity
     guid: 0194c95251f47eb40a92d19bf541110f
   - enabled: 1
-    path: Assets/Scenes/04_IndustrialZone360(Sentienx) V1.unity
+    path: Assets/Scenes/04_Urban BusinessCentre.unity
+    guid: 2cba910e26f296b44b9179b06f5ec50f
+  - enabled: 1
+    path: Assets/Scenes/05_Institutional Balai Bomba.unity
+    guid: f9d73ea2706c487489011dd7bb277ff7
+  - enabled: 1
+    path: Assets/Scenes/05_Institutional Balai Polis.unity
+    guid: af3725c62c3bd054680a1241df9b3c6b
+  - enabled: 1
+    path: Assets/Scenes/05_Institutional Hospital.unity
+    guid: 9d7ea7b6d7b9200439e3fd15f58cadd4
+  - enabled: 1
+    path: Assets/Scenes/06_Industrial Sentienx.unity
     guid: 62236b2db0cf8264fa597448d1c28684
   - enabled: 1
-    path: Assets/Scenes/03_SilTerra V1.unity
-    guid: bd08d73663c28564b837b52b33d18039
+    path: Assets/Scenes/07_Amenity Golf 1.unity
+    guid: 5d93a8f9b086c564090682903c386795
   - enabled: 1
-    path: Assets/Scenes/03_Osram V1.unity
-    guid: e7cef3f75dc5caa4babe02676768c1bd
+    path: Assets/Scenes/07_Amenity Golf 2.unity
+    guid: 98a9b6a3271e28a478f704e659fb395e
   - enabled: 1
-    path: Assets/Scenes/03_Intel V1.unity
-    guid: d757ea3cf11334042a223eb149f36618
+    path: Assets/Scenes/07_Amenity Golf 3.unity
+    guid: 2dbf9ab42a7da9848a6f56e27d084f5e
   - enabled: 1
-    path: Assets/Scenes/03_Infineon V1.unity
-    guid: 7302ffc058e19e24fb01d0d5b4cb1874
+    path: Assets/Scenes/07_Amenity Golf 4.unity
+    guid: ad4e7fde744ea3f418d12f811a48cf99
   - enabled: 1
-    path: Assets/Scenes/03_Fuji V1.unity
-    guid: 382fde351d4c75d418385ea4dca70397
+    path: Assets/Scenes/07_Amenity Sport 1.unity
+    guid: 1c0139ab9119fdb48b6be002dac0d56b
   - enabled: 1
-    path: Assets/Scenes/03_FirstSolar V1.unity
+    path: Assets/Scenes/07_Amenity Sport 2.unity
+    guid: 2818d577df9acc24b92edf35c479b114
+  - enabled: 1
+    path: Assets/Scenes/07_Amenity Sport 3.unity
+    guid: 87943e5aff9fba24bb564f4b17ebd39d
+  - enabled: 1
+    path: Assets/Scenes/08_FirstSolar V1.unity
     guid: 890752cbcc5029c418728d17749fc161
+  - enabled: 1
+    path: Assets/Scenes/08_Fuji V1.unity
+    guid: ad93b2b0f1a88cf4a84554ff8b6ce0f8
+  - enabled: 1
+    path: Assets/Scenes/08_Infineon V1.unity
+    guid: e53ba0bf028e3724a85953a575c81c79
+  - enabled: 1
+    path: Assets/Scenes/08_Intel V1.unity
+    guid: 28945655dcf8bef4dacf8d23f0524b7a
+  - enabled: 1
+    path: Assets/Scenes/08_Osram V1.unity
+    guid: 901393bbeca08f547ac56662c41745da
+  - enabled: 1
+    path: Assets/Scenes/08_SilTerra V1.unity
+    guid: 6183c20a80802d942906df49631c81a3
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4a27acca4539f494cb5ff26fece07a34, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c9fe2103ded1e6d4a867178e51a7e93f, type: 2}
